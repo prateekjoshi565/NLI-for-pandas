@@ -1,5 +1,2 @@
-pandas
-streamlit
-re
 matplotlib
 sklearn
