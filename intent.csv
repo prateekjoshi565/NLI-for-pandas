@@ -1,0 +1,65 @@
+intent,queries
+1,print missing data
+1,print missing values
+2,print columns
+2,print column names
+2,columns
+2,column names
+3,categorical columns
+3,print categorical columns
+3,non numeric columns
+3,print non numeric columns
+4,numeric columns
+4,print numeric columns
+5,unique values in $col
+5,unique values in column $col
+5,unique items in $col
+6,count of unique values in $col
+6,count of unique values in column $col
+6,count of unique items in $col
+6,value count of unique values in $col
+6,value count of unique items in $col
+6,value count of $col
+7,print first $num columns
+7,first $num columns
+7,starting $num columns
+7,initial $num columns
+8,print last $num columns
+8,last $num columns
+8,final $num columns
+9,columns $num to $num
+9,print $num column to $num column
+9,$num to $num columns
+9,$num to $num column
+10,first $num rows
+10,top $num rows
+10,get first $num rows
+10,get top $num rows
+10,starting $num rows
+10,initial $num rows
+11,bottom $num rows
+11,last $num rows
+11,get bottom $num rows
+11,get last $num rows
+12,rows $num to $num
+12,get $num row to $num row
+12,$num to $num rows
+12,$num to $num row
+13,number of duplicate rows
+13,duplicate rows
+13,get duplicate rows
+14,distribution of $col
+14,$col distribution
+14,range of $col
+14,$col range
+14,print distribution of $col
+14,histogram of $col
+15,rows where cond
+15,data where cond
+15,dataframe where cond
+15,print rows where cond
+15,print data where cond
+15,print dataframe where cond
+16,print $col where cond
+16,$col where cond
+
